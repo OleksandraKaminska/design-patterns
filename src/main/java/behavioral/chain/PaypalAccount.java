@@ -2,7 +2,6 @@ package behavioral.chain;
 
 public class PaypalAccount extends Account {
 
-
     public PaypalAccount(int balance) {
         super(balance);
     }
